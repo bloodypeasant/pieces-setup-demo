@@ -1,0 +1,8 @@
+public class BlackRook extends Piece {
+
+  public BlackRook(int row, int col) {
+    super(row, col);
+    // TODO Auto-generated constructor stub
+  }
+
+}
